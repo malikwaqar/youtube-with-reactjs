@@ -5,5 +5,10 @@
     padding-bottom: 0;
 }
 .recommendedVideos > h2 {
-    
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
+.recommendedVideos__videos {
+    display: flex;
+    flex-wrap: wrap;
 }
